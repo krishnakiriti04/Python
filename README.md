@@ -1,2 +1,2 @@
 # Python
-Projects during my python learnings
+Projects of my python learnings
